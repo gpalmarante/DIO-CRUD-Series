@@ -1,0 +1,16 @@
+C:\Users\gpalmarante\source\repos\cadastrodeseriesbootcamp\cadastrodeseries\obj\Debug\net5.0\cadastrodeseries.csprojAssemblyReference.cache
+C:\Users\gpalmarante\source\repos\cadastrodeseriesbootcamp\cadastrodeseries\obj\Debug\net5.0\cadastrodeseries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpalmarante\source\repos\cadastrodeseriesbootcamp\cadastrodeseries\obj\Debug\net5.0\cadastrodeseries.AssemblyInfoInputs.cache
+C:\Users\gpalmarante\source\repos\cadastrodeseriesbootcamp\cadastrodeseries\obj\Debug\net5.0\cadastrodeseries.AssemblyInfo.cs
+C:\Users\gpalmarante\source\repos\cadastrodeseriesbootcamp\cadastrodeseries\obj\Debug\net5.0\cadastrodeseries.csproj.CoreCompileInputs.cache
+C:\Users\gpalmarante\source\repos\cadastrodeseriesbootcamp\cadastrodeseries\bin\Debug\net5.0\cadastrodeseries.exe
+C:\Users\gpalmarante\source\repos\cadastrodeseriesbootcamp\cadastrodeseries\bin\Debug\net5.0\cadastrodeseries.deps.json
+C:\Users\gpalmarante\source\repos\cadastrodeseriesbootcamp\cadastrodeseries\bin\Debug\net5.0\cadastrodeseries.runtimeconfig.json
+C:\Users\gpalmarante\source\repos\cadastrodeseriesbootcamp\cadastrodeseries\bin\Debug\net5.0\cadastrodeseries.runtimeconfig.dev.json
+C:\Users\gpalmarante\source\repos\cadastrodeseriesbootcamp\cadastrodeseries\bin\Debug\net5.0\cadastrodeseries.dll
+C:\Users\gpalmarante\source\repos\cadastrodeseriesbootcamp\cadastrodeseries\bin\Debug\net5.0\ref\cadastrodeseries.dll
+C:\Users\gpalmarante\source\repos\cadastrodeseriesbootcamp\cadastrodeseries\bin\Debug\net5.0\cadastrodeseries.pdb
+C:\Users\gpalmarante\source\repos\cadastrodeseriesbootcamp\cadastrodeseries\obj\Debug\net5.0\cadastrodeseries.dll
+C:\Users\gpalmarante\source\repos\cadastrodeseriesbootcamp\cadastrodeseries\obj\Debug\net5.0\ref\cadastrodeseries.dll
+C:\Users\gpalmarante\source\repos\cadastrodeseriesbootcamp\cadastrodeseries\obj\Debug\net5.0\cadastrodeseries.pdb
+C:\Users\gpalmarante\source\repos\cadastrodeseriesbootcamp\cadastrodeseries\obj\Debug\net5.0\cadastrodeseries.genruntimeconfig.cache
